@@ -105,4 +105,4 @@ recruiting_agent_pollock/
 
 ## License
 
-MIT
+Apache
