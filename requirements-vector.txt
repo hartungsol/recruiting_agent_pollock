@@ -1,0 +1,5 @@
+# Optional: Vector store
+# Prefer `pip install -e ".[vector]"` when working from source.
+
+chromadb>=0.4
+sentence-transformers>=2.2

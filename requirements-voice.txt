@@ -1,0 +1,9 @@
+# Optional: Voice interface
+# Prefer `pip install -e ".[voice]"` when working from source.
+
+numpy>=1.24
+sounddevice>=0.4
+
+# Optional: offline STT implementation used by `WhisperSTT`
+# Note: this may pull in larger native/ML dependencies.
+faster-whisper>=1.0

@@ -1,0 +1,21 @@
+# Core dependencies
+pydantic>=2.0
+pydantic-settings>=2.0
+sqlalchemy>=2.0
+asyncpg>=0.29
+httpx>=0.25
+openai>=1.0
+python-dotenv>=1.0
+python-docx>=1.0
+
+# Optional dependencies
+# - Voice: `pip install -r requirements-voice.txt` OR `pip install -e ".[voice]"`
+# - Vector: `pip install -r requirements-vector.txt` OR `pip install -e ".[vector]"`
+
+# Development
+pytest>=7.0
+pytest-asyncio>=0.21
+pytest-cov>=4.0
+mypy>=1.0
+ruff>=0.1
+black>=23.0
