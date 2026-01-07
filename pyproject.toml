@@ -7,7 +7,7 @@ name = "recruiting-agent-pollock"
 version = "0.1.0"
 description = "A multi-agent recruiting interview system with defeasible reasoning"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "Apache"}
 requires-python = ">=3.10"
 authors = [
     {name = "Robert J. Hartung III", email = "conatact@hartungsolutions.com"}
